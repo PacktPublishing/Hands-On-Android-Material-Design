@@ -1,0 +1,4 @@
+#Sun Nov 04 12:36:45 IRST 2018
+base.0=C\:\\Users\\Mona\\Desktop\\packt\\MaterialDesign\\Codes\\Section5\\Video5.2\\FloatingButtons\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

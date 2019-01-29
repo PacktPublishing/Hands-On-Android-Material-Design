@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Nov 04 12:36:45 IRST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Mona\\Desktop\\packt\\MaterialDesign\\Codes\\Section5\\Video5.2\\FloatingButtons\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

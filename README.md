@@ -25,104 +25,24 @@ If you are a mobile developer keen to enhance your application user interface de
 This course has the following software requirements:<br/>
 You have to download java SDK and Android studio IDE (with SDK bundle) which is official IDE for android application development.
 
+* OS: Microsoft® Windows® 7/8/10 (32- or 64-bit)
+<LI>Processor: 3 GB RAM minimum, 8 GB RAM recommended; plus 1 GB for the Android Emulator
+<LI>Memory: 2 GB of available disk space minimum,4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
+<LI>1280 x 800 minimum screen resolution
+
+* OS: Mac® OS X® 10.10 (Yosemite) or higher, up to 10.13 (macOS High Sierra)
+<LI>Processor: 3 GB RAM minimum, 8 GB RAM recommended; plus 1 GB for the Android Emulator
+<LI>Memory: 2 GB of available disk space minimum, 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
+<LI>1280 x 800 minimum screen resolution
+
+* OS: GNOME or KDE desktop
+<LI>Tested on Ubuntu® 14.04 LTS, Trusty Tahr (64-bit distribution capable of running 32-bit applications)
+<LI>Processor: 64-bit distribution capable of running 32-bit applications
+<LI>GNU C Library (glibc) 2.19 or later
+<LI>Memory: 2 GB of available disk space minimum,
+<LI>4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
+<LI>1280 x 800 minimum screen resolution
 
-
-
-OS: Microsoft® Windows® 7/8/10 (32- or 64-bit)
-
-
-
-Processor: 3 GB RAM minimum, 8 GB RAM recommended; plus 1 GB for the Android Emulator
-
-
-
-Memory: 2 GB of available disk space minimum,4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
-
-
-
-1280 x 800 minimum screen resolution
-
-
-
-
-
-OS: Mac® OS X® 10.10 (Yosemite) or higher, up to 10.13 (macOS High Sierra)
-
-
-
-Processor: 3 GB RAM minimum, 8 GB RAM recommended; plus 1 GB for the Android Emulator
-
-
-
-Memory: 2 GB of available disk space minimum, 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
-
-
-
-1280 x 800 minimum screen resolution
-
-
-
-
-
-OS: GNOME or KDE desktop
-
-
-
-Tested on Ubuntu® 14.04 LTS, Trusty Tahr (64-bit distribution capable of running 32-bit applications)
-
-
-
-Processor: 64-bit distribution capable of running 32-bit applications
-
-
-
-GNU C Library (glibc) 2.19 or later
-
-
-
-Memory: 2 GB of available disk space minimum,
-
-
-
-4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
-
-
-
-1280 x 800 minimum screen resolution
-
-
-
-
-Recommended Hardware Requirements
-For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
-
-
-OS: 
-
-
-
-Processor: 
-
-
-
-Memory: 
-
-
-
-Storage: 
-
-
-Software Requirements
-
-Operating system: 
-
-
-
-Browser: 
-
-
-
-Atom IDE, Latest Version
 
 
 

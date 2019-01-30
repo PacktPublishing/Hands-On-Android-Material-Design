@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="popupBackground">#2b2d30</color>
+    <color name="colorTextMenu">#d0d4db</color>
+    <color name="colorBtmNavIcon_NotSelected">#7B1FA2</color>
+    <color name="colorBtmNavIcon_Selected">#4A148C</color>
+    <color name="colorBtmNavText">#F5F5F5</color>
+    <color name="colorBtmNavBackGround">#0097A7</color>
+</resources>

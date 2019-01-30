@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="popupTheme">@style/popupTheme</item>
+    </style>
+    <style name="popupTheme" parent="Theme.AppCompat.Light">
+        <item name="android:background">@color/popupBackground</item>
+        <item name="android:textColor">@color/colorTextMenu</item>
+    </style>
+    <style name="BottomNavigationTheme" parent="Widget.Design.BottomNavigationView">
+        <item name="colorPrimary">@color/colorBtmNavIcon_Selected</item>
+        <item name="android:tint">@color/colorBtmNavIcon_NotSelected</item>
+<!--
+        <item name="android:background">@color/colorBtmNavBackGround</item>
+-->
+        <item name="android:textColor">@color/colorBtmNavText</item>
+  </style>
+
+</resources>

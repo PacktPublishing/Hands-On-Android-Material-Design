@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Nov 04 18:36:29 IRST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Mona\\Desktop\\packt\\MaterialDesign\\Codes\\Section4\\Video4.2\\RecyclerView\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

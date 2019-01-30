@@ -1,0 +1,4 @@
+#Sun Nov 04 18:21:38 IRST 2018
+base.0=C\:\\Users\\Mona\\Desktop\\packt\\MaterialDesign\\Codes\\Section4\\Video4.7\\RecyclerView&CardView\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

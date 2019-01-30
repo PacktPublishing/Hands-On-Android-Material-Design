@@ -1,0 +1,4 @@
+#Wed Nov 21 13:47:55 IRST 2018
+base.0=C\:\\Users\\Mona\\Desktop\\packt\\MaterialDesign\\Codes\\Section7\\Video7.2\\ImageSlider\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

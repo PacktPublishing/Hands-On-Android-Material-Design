@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="rec_user_image">70sp</dimen>
+    <dimen name="padding_small">8sp</dimen>
+</resources>

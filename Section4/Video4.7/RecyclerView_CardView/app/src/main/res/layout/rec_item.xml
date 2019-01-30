@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/main_cardView"
+        card_view:cardElevation="8sp"
+        card_view:contentPadding="@dimen/padding_small"
+        card_view:cardUseCompatPadding="true"
+        >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="start">
+    <ImageView
+        android:layout_width="@dimen/rec_user_image"
+        android:layout_height="@dimen/rec_user_image"
+        android:id="@+id/rec_item_user_img"
+        android:scaleType="centerCrop"
+        android:padding="@dimen/padding_small"
+        android:src="@drawable/img_nav_user"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rec_item_username"
+            android:textStyle="bold"
+            android:text="@string/txt_rec_usrname"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rec_item_brief_msg"
+            android:text="@string/txt_rec_msg"/>
+
+    </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

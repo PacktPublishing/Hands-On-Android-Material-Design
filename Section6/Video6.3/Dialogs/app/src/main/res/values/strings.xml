@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="alert_dlg_msg">say hello to the android alert dialog</string>
+</resources>

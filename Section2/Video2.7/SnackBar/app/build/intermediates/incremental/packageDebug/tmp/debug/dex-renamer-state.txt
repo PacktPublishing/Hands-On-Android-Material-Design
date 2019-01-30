@@ -1,0 +1,10 @@
+#Sun Oct 14 17:05:17 IRST 2018
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\Mona\\Desktop\\packt\\MaterialDesign\\Codes\\Section2\\Video2.7\\SnackBar\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.1=C\:\\Users\\Mona\\Desktop\\packt\\MaterialDesign\\Codes\\Section2\\Video2.7\\SnackBar\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+base.0=C\:\\Users\\Mona\\Desktop\\packt\\MaterialDesign\\Codes\\Section2\\Video2.7\\SnackBar\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0

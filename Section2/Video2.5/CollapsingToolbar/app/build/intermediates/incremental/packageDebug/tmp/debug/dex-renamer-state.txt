@@ -1,0 +1,4 @@
+#Sun Oct 14 16:33:58 IRST 2018
+base.0=C\:\\Users\\Mona\\Desktop\\packt\\MaterialDesign\\Codes\\Section2\\Video2.5\\CollapsingToolbar\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

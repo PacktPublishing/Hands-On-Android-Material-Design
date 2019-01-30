@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+
+    >
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/activity_msg_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary">
+
+    </android.support.v7.widget.Toolbar>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="@drawable/capture2"
+        android:id="@+id/cl_view"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_below="@+id/activity_msg_toolbar"
+        >
+
+        <ImageView
+            android:layout_width="120sp"
+            android:layout_height="120sp"
+            android:id="@+id/rec_item_user_img"
+            android:scaleType="centerCrop"
+            android:padding="@dimen/padding_small"
+            android:src="@drawable/img_nav_user"
+            />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rec_item_username"
+                android:textStyle="bold"
+                android:text="@string/txt_rec_usrname"/>
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rec_item_brief_edt"
+                android:text="@string/txt_rec_msg"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

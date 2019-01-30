@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="txt_rec_usrname">User Name</string>
+    <string name="txt_rec_msg">type your massage</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_height">200sp</dimen>
+    <dimen name="padding_small">8sp</dimen>
+    <dimen name="nav_user_img_size">60sp</dimen>
+
+</resources>

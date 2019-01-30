@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="action_item1">Item 1</string>
+    <string name="action_item2">Item 2</string>
+    <string name="action_setting">Setting</string>
+    <string name="nav_Home">Home</string>
+    <string name="nav_Notifications">Notifications</string>
+    <string name="nav_Location">Location</string>
+    <string name="nav_Header">My header title</string>
+    <string name="nav_user">My Name</string>
+</resources>

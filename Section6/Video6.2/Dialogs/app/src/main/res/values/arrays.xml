@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_names">
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Chandler</item>
+        <item>Charlotte</item>
+        <item>Dallas</item>
+        <item>Dayton</item>
+        <item>Alexandria</item>
+        <item>Austin</item>
+    </string-array>
+</resources>
